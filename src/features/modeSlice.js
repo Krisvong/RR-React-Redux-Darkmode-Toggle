@@ -12,11 +12,16 @@ const mode1 = {
 
 const mode2 = {
     darkMode: false,
-    color1: '#6E44FF',
-    color2: '#B892FF',
-    color3: '#FFC2E2',
-    color4: '#FF90B3',
-    color5: '#EF7A85',
+    color1: '#E56B6F',
+    color2: '#F9A26C', 
+    color3: '#FAD7A0', 
+    color4: '#FEF3C7', 
+    color5: '#F0E5D8', 
+    // color1: '#6E44FF',
+    // color2: '#B892FF',
+    // color3: '#FFC2E2',
+    // color4: '#FF90B3',
+    // color5: '#EF7A85',
     photo: 'https://placekitten.com/200/300'
 }
 
